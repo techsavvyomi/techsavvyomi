@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Omkar Dandekar<br>🚀 Tech Enthusiast | 🤖 Robotics & AI Explorer | 💡 Educator & Developer</h2>
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coder gif"/>
+
 
 ---
 
@@ -9,7 +9,7 @@
 I'm a passionate developer and educator dedicated to building engaging STEM and AI learning experiences. I specialize in:
 
 - 🤖 Robotics & Embedded Systems (ESP32, Arduino, Otto DIY)  
-- 📱 App Development (MIT App Inventor, Flutter)  
+- 📱 App Development (MIT App Inventor)  
 - 🧠 AI & Computer Vision (MediaPipe, OpenCV, LLMs)  
 - 🌐 Web & Desktop Apps (Electron.js, Python, Tkinter)  
 - 🎮 Gamified Learning Platforms  
