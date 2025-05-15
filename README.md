@@ -16,6 +16,19 @@ I'm a passionate developer and educator dedicated to building engaging STEM and 
 
 ---
 
+I love combining hardware with software to create interactive learning tools for students and communities.
+
+---
+
+### 🔧 Tech Stack
+
+**Languages & Tools**  
+`Python` | `JavaScript` | `C/C++` | `HTML/CSS` | `Node.js`  
+`Arduino` | `ESP32` | `MediaPipe` | `OpenCV` | `Electron.js`  
+`App Inventor` | `Tkinter` | `Firebase` | `AI APIs` | `Git`
+
+---
+
 ### 💻 Tech Stack
 
 <div align="left">
@@ -30,28 +43,8 @@ I'm a passionate developer and educator dedicated to building engaging STEM and 
 
 ---
 
-### 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://www.youtube.com/@YourChannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/YourUsername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/YourUsername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/YourServerInvite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+
 
 ---
 
